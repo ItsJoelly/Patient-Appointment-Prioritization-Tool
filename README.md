@@ -8,10 +8,10 @@ An intelligent urgency scoring system built in Excel to help NHS administrators 
 
 Manually managing patient reschedules and appointment slots is inefficient and prone to error. This project introduces a scoring system that combines:
 
-🧠 Weighted patient factors (urgency, diagnostics, admin changes)
-📅 Dynamic penalty for upcoming appointments
-📈 Conditional formatting to highlight high-priority cases
-📊 Test sheets to validate logic and edge cases
+* 🧠 Weighted patient factors (urgency, diagnostics, admin changes)
+* 📅 Dynamic penalty for upcoming appointments
+* 📈 Conditional formatting to highlight high-priority cases
+* 📊 Test sheets to validate logic and edge cases
 
 This Excel tool automates patient prioritization — helping scheduling teams make faster, more data-driven decisions.
 
