@@ -1,4 +1,4 @@
-# 🏥📊 Patient Appointment Prioritization Tool (Excel-based)
+# 🏥📊 Patient Appointment Prioritization Tool
 
 An intelligent urgency scoring system built in Excel to help NHS administrators prioritize patients for cancelled or available appointment slots. Designed to streamline scheduling based on real-world clinical and administrative factors.
 
